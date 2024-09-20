@@ -6,7 +6,7 @@ Repositório criado durante uma aula ao vivo!
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Portfolio Alura - Jonathan **
+| :sparkles: Nome        | ** Git e GitHub **
 | :label: Tecnologias | HTML,CSS
 | :rocket: URL         | [Hospedado no Git](https://jonathanmesquita.github.io/projeto-git-hub_01/)
 | :fire: Desafio: Curso em Vídeo Git e GitHub | [Curso em Video ](https://github.com/gustavoguanabara/git-github)
