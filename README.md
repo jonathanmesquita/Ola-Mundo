@@ -8,8 +8,8 @@ Repositório criado durante uma aula ao vivo!
 | -------------  | --- |
 | :sparkles: Nome        | **Portfolio Alura - Jonathan **
 | :label: Tecnologias | HTML,CSS
-| :rocket: URL         | [Hospedado no Vercel Free](XX)
-| :fire: Desafio: Curso em Vídeo Git e GitHub | [Curso em Video G](XX)
+| :rocket: URL         | [Hospedado no Git]((https://jonathanmesquita.github.io/projeto-git-hub_01/))
+| :fire: Desafio: Curso em Vídeo Git e GitHub | [Curso em Video ]()
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](X)
